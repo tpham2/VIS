@@ -1,0 +1,37 @@
+
+
+
+p {
+  margin-top: 11px;
+  padding-left: 8px;
+  font-family: 'Covered By Your Grace';
+  font-size: 25px;
+}
+
+a {
+  font-family: 'Barlow Semi Condensed';
+}
+
+.profilePic {
+  width: 70%;
+  background-color: lightgray;
+  margin-left: 15%;
+}
+
+.headingTitle {
+  font-size: 30px;
+  padding: 0px;
+  margin-left: 25%;
+}
+
+
+.profileLabel {
+  font-size: 20px;
+  margin-left: 15%;
+  align: left;
+}
+.profileList {
+  font-size: 20px;
+  margin-left: 25%;
+  align: right;
+}
