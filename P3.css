@@ -43,4 +43,20 @@ a {
 
 .profileList {
   font-size: 18px;
+  text-decoration: none;
+}
+
+.profileList:active {
+  background-color: none;
+}
+
+
+.Location a{
+  font-family: 'Oswald';
+  font-size: 20px;
+}
+.Location {
+  margin-left: 40%;
+  align-self: center;
+  color: lightgray;
 }
