@@ -54,9 +54,19 @@ a {
 .Location a{
   font-family: 'Oswald';
   font-size: 20px;
+  text-decoration: none;
+  border-style: solid;
+  border-color: lightgray;
+  border-width: thin;
+  padding: 3px;
+  background: #3A4C7A;
 }
 .Location {
-  margin-left: 40%;
-  align-self: center;
-  color: lightgray;
+  margin-left: 35%;
+  color: white;
+}
+
+.Recent {
+  margin-left: 18%;
+  color: white;
 }
